@@ -7,18 +7,18 @@
 ---------------------------------------------------------------------
 - Parcours de dictionnaire par les clé/valeurs/les deux
 - Recherche d'une valeur maximum/minimum dans un dictionnaire
-
+---------------------------------------------------------------------
 - HTML et CSS
 - Événement en JavaScript
 - Formulaire Web
-
+---------------------------------------------------------------------
 - Modèle Von Neumann
 - Lignes de commandes
-
+---------------------------------------------------------------------
 - Tri par insertion
 - Tri par sélection
 - Algorithme de k plus proches voisins
 - Recherche dichotomique
-
+---------------------------------------------------------------------
 - Algortihmes gloutons
 - Connaître des problèmes associés 
