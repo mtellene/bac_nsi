@@ -4,7 +4,7 @@
 - Recherche du maximum/minimum dans une liste
 - Nombre d'occurences d'un élément dans une liste
 - Partionnement de liste entre éléments positifs et négatifs
-
+---------------------------------------------------------------------
 - Parcours de dictionnaire par les clé/valeurs/les deux
 - Recherche d'une valeur maximum/minimum dans un dictionnaire
 
