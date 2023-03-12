@@ -47,9 +47,11 @@ https://fonts.google.com/specimen/Kenia
 
 - Mettre en blanc la couleur du texte de chaque bouton
 
+**L'aperçu attendu est donné par la capture d'écran *apercu_menu.jpg***
+
 - Faire une animation de scroll vers la bonne section lors d’un clique (sans ```javascript```)
 
-## Niveau 4. Sections
+## Niveau 3. Sections
 
 - Créer une section *pizza*, contenant l’arrière plan *pizza-banner.jpg*
 
@@ -73,12 +75,12 @@ https://fonts.google.com/specimen/Kenia
 
 - Mettre en forme chaque produit pour avoir le résultat suivant :
 
-### IMAGE
+**L'aperçu attendu est donné par la capture d'écran *apercçu_section.jpg***
 
 
 - Reproduire la même chose pour les sections salade, burger et boissons
 
-## Niveau 5. Bonus
+## Niveau 4. Bonus
 
 - Ajouter un pied de page contenant
     - La mention Copyright sous la forme d’un paragraphe
