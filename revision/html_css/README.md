@@ -4,7 +4,7 @@
 
 **NS'EAT** est un restaurant basé à Avignon.
 
-Il propose des petits plats à emporter (<span style:'color:green;'>salades, pizzas, burger, boissons</span>).
+Il propose des petits plats à emporter (salades, pizzas, burger, boissons).
 
 
 Suite à cette longue période de confinement réduisant la clientèle, le restaurant décide de vous contacter pour réaliser un site sur lequel il sera possible de voir les differentes formules, boissons.
